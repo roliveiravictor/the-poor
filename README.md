@@ -1,13 +1,24 @@
-# I-Am-Poor
-Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9) - I Am Poor App
+# README #
 
-Beginner: Download the starter project files as .zip and extract the files to your desktop. 
+The Poor App - First Desgined Swift Application
 
-Pro: Git clone to your Xcode projects folder.
+Programming Language: Swift 4.0
 
-## Finished App
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/I%20Am%20Poor.png)
+IDE: XCode 10.1
 
+### What is this repository for? ###
 
+* This is a backup code of my first ever designed swift application
+* Final version
 
-Copyright © The App Brewery
+### How do I get set up? ###
+
+* N/A
+
+### Contribution guidelines ###
+
+* Tutorial from Angela Yu: https://www.udemy.com/ios11-app-development-bootcamp
+
+### Who do I talk to? ###
+
+* roliveira.victor@gmail.com
